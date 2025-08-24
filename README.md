@@ -1,0 +1,2 @@
+# startingGit
+this is starting
